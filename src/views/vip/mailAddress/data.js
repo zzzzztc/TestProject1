@@ -1,0 +1,43 @@
+let list = [
+  { phone: '13776551608',
+    peopleNum: '0234',
+    email: '840192296@qq.com',
+    Country: '中国',
+    province: '江苏省',
+    city: '南京',
+    area: '建邺区',
+    emailCode: '211113',
+    terminal: 'PC',
+    Addressee: '张发',
+    AddresseePhone: '2019-04-22 19:33:00',
+    arrow: '江苏省南京市建邺区云谷科技园',
+    createdTime: '1234567'
+  }, { phone: '13776551608',
+    peopleNum: '0234',
+    email: '840192296@qq.com',
+    Country: '中国',
+    province: '江苏省',
+    city: '南京',
+    area: '建邺区',
+    emailCode: '211113',
+    terminal: 'PC',
+    Addressee: '张发',
+    AddresseePhone: '2019-04-22 19:33:00',
+    arrow: '江苏省南京市建邺区云谷科技园',
+    createdTime: '1234567'
+  }, { phone: '13776551608',
+    peopleNum: '0234',
+    email: '840192296@qq.com',
+    Country: '中国',
+    province: '江苏省',
+    city: '南京',
+    area: '建邺区',
+    emailCode: '211113',
+    terminal: 'PC',
+    Addressee: '张发',
+    AddresseePhone: '2019-04-22 19:33:00',
+    arrow: '江苏省南京市建邺区云谷科技园',
+    createdTime: '1234567'
+  }
+]
+export default list

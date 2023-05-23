@@ -1,0 +1,6 @@
+export const ADD_VIEW_LIST = 'ADD_VIEW_LIST'
+export const REMOVE_VIEW_LIST = 'REMOVE_VIEW_LIST'
+export const GET_TAGS_NUM = 'GET_TAGS_NUM'
+export const CLEAR_VIEW_LIST = 'CLEAR_VIEW_LIST'
+export const ORDER_LIST = 'ORDER_LIST'
+export const CLEAR_PARENT_ID = 'CLEAR_PARENT_ID'

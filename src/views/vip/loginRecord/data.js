@@ -1,0 +1,40 @@
+let list = [
+  { phone: '13776551608',
+    peopleNum: '0234',
+    email: '840192296@qq.com',
+    operation: '手机号登陆',
+    loginName: 'admin',
+    createdTime: '2019-04-22 19:33:00',
+    IP: '192、168、1、1',
+    channel: 'app,web',
+    terminal: 'PC',
+    terminalStyle: 'PC110',
+    arrow: '江苏省南京市建邺区海峡城云谷科技园',
+    equipmentNun: '1234567'
+  }, { phone: '13776551608',
+    peopleNum: '0234',
+    email: '840192296@qq.com',
+    operation: '手机号登陆',
+    loginName: 'admin',
+    createdTime: '2019-04-22 19:33:00',
+    IP: '192、168、1、1',
+    channel: 'app,web',
+    terminal: 'PC',
+    terminalStyle: 'PC110',
+    arrow: '江苏省南京市建邺区海峡城云谷科技园',
+    equipmentNun: '1234567'
+  }, { phone: '13776551608',
+    peopleNum: '0234',
+    email: '840192296@qq.com',
+    operation: '手机号登陆',
+    loginName: 'admin',
+    createdTime: '2019-04-22 19:33:00',
+    IP: '192、168、1、1',
+    channel: 'app,web',
+    terminal: 'PC',
+    terminalStyle: 'PC110',
+    arrow: '江苏省南京市建邺区海峡城云谷科技园',
+    equipmentNun: '1234567'
+  }
+]
+export default list

@@ -1,0 +1,30 @@
+
+const fieldMap = [
+  { key: 'air_CODE', label: '航司代码', flag: false },
+  { key: 'flt_NUM', label: '航班号', flag: true },
+  { key: 'flt_TYPE', label: '航线类别', flag: false },
+  { key: 'dept_AIR', label: '起飞城市', flag: false },
+  { key: 'dept_CODE', label: '起飞机场三字码', flag: true },
+  { key: 'dept_NAME', label: '起飞机场名称', flag: false },
+  { key: 'dept_AIR_TERMINAL', label: '起飞机场航站楼', flag: false },
+  { key: 'dept_TIME', label: '起飞时间', flag: true },
+  { key: 'arri_AIR', label: '到达城市', flag: false },
+  { key: 'arri_CODE', label: '到达机场三字码', flag: true },
+  { key: 'arri_NAME', label: '到达机场名称', flag: false },
+  { key: 'arri_AIR_TERMINAL', label: '到达机场航站楼', flag: false },
+  { key: 'arri_TIME', label: '到达时间', flag: true },
+  { key: 'stop_OVER_CITY', label: '经停城市', flag: false },
+  { key: 'stop_OVER_AIR', label: '经停机场三字码', flag: true },
+  { key: 'stop_OVER_AIR_NAME', label: '经停机场名称', flag: false },
+  { key: 'stop_OVER_DEPT_TIME', label: '经停起飞时间', flag: true },
+  { key: 'stop_OVER_ARRI_TIME', label: '经停到达时间', flag: true },
+  { key: 'stop_OVER_MIN', label: '经停时间', flag: true },
+  { key: 'share_CODE', label: '共享代码', flag: false },
+  { key: 'flt_SCHEDULE', label: '航班班期', flag: false },
+  { key: 'start_DATE', label: '开始日期', flag: false },
+  { key: 'end_DATE', label: '截止日期', flag: false },
+  { key: 'sale_DATE', label: '销售生效日期', flag: true },
+  { key: 'create_DATE', label: '创建日期', flag: false },
+  { key: 'city_STATUS', label: '状态', flag: true }
+]
+export default fieldMap

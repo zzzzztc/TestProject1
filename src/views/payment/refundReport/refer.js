@@ -1,0 +1,25 @@
+const fieldMap = [
+  { key: 'orderCode', label: '订单编号', flag: true },
+  { key: 'apply_no', label: '差错退款申请单号', flag: true },
+  { key: 'channel', label: '渠道编号', flag: true },
+  { key: 'PNR', label: 'PNR', flag: true },
+  { key: 'payType', label: '支付方式', flag: false },
+  { key: 'refund_amounts', label: '应退金额', flag: false },
+  { key: 'refund_amounts_actual', label: '退款金额', flag: true },
+  { key: 'refund_amounts_date', label: '退款日期', flag: true },
+  { key: 'refund_status', label: '退款状态', flag: true },
+  { key: 'passenger', label: '联系人姓名', flag: true },
+  { key: 'phone', label: '联系人电话', flag: false },
+  { key: 'paybillno', label: '银行订单号', flag: false },
+  { key: 'paymoney', label: '支付金额', flag: false },
+  { key: 'paystatus', label: '支付状态', flag: false },
+  { key: 'apply_date', label: '申请时间', flag: false },
+  { key: 'apply_op', label: '申请人', flag: false },
+  { key: 'apply_remark', label: '申请备注', flag: false },
+  { key: 'audit_date', label: '审核时间', flag: false },
+  { key: 'audit_op', label: '审核人', flag: false },
+  { key: 'audit_remark', label: '审核备注', flag: false },
+  { key: 'wallet_money', label: '红包金额', flag: false },
+  { key: 'actual_refund_wallet', label: '红包退款', flag: false }
+]
+export default fieldMap
